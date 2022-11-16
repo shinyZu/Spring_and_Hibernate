@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="pooling-c3p0-0.9.5.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/db-pooling/c3p0-0.9.5.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/db-pooling/hibernate-c3p0-5.6.5.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/db-pooling/mchange-commons-java-0.2.19.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
