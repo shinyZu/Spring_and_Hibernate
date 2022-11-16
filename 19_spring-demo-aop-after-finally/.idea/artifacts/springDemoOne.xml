@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="springDemoOne">
+    <output-path>$PROJECT_DIR$/out/artifacts/springDemoOne</output-path>
+    <root id="archive" name="springDemoOne.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="19_spring-demo-aop-after-finally" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="spring-aop-5.3.9-javadoc" />
+          <element id="library" level="project" name="aspectjweaver-1.9.8" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="19_spring-demo-aop-after-finally/web/Web" />
+    </root>
+  </artifact>
+</component>

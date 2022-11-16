@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-mvc-demo">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_mvc_demo</output-path>
+    <root id="archive" name="spring-mvc-demo.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="03_spring-mvc-demo" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
+          <element id="library" level="project" name="hibernate-validator-6.2.4.Final" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="03_spring-mvc-demo/web/Web" />
+    </root>
+  </artifact>
+</component>

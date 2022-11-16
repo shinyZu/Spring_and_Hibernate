@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="web-customer-tracker">
+    <output-path>$PROJECT_DIR$/out/artifacts/web_customer_tracker</output-path>
+    <root id="archive" name="web-customer-tracker.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="11_web-customer-tracker" />
+          <element id="jpa-descriptors" facet="11_web-customer-tracker/jpa/JPA" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="hibernate-5.6.5-final" />
+          <element id="library" level="project" name="mysql-connector" />
+          <element id="library" level="project" name="pooling-c3p0-0.9.5.5" />
+          <element id="library" level="project" name="spring-5.3.9" />
+          <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="11_web-customer-tracker/web/Web" />
+    </root>
+  </artifact>
+</component>

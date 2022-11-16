@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="hb_student_tracker@localhost" uuid="ffb1fabc-5010-4b83-9575-2dc7fcee4ba3">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb_student_tracker</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hb_employee_tracker@localhost" uuid="067b73f9-60e3-40a3-8783-4faaf194719d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb_employee_tracker</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hb-01-one-to-one-uni@localhost" uuid="434ae5b4-bee7-4c5b-a810-7b6e044edad9">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb-01-one-to-one-uni</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="hb-03-one-to-many@localhost" uuid="a371a2d7-679e-4948-b590-ecd8b65b4708">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/hb-03-one-to-many</jdbc-url>
+    </data-source>
+  </component>
+</project>
