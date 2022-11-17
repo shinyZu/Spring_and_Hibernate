@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mycoolwebapp">
+    <output-path>$PROJECT_DIR$/out/artifacts/mycoolwebapp</output-path>
+    <root id="archive" name="mycoolwebapp.war">
+      <element id="javaee-facet-resources" facet="26_mycoolwebapp/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="26_mycoolwebapp" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
