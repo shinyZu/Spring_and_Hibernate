@@ -1,0 +1,38 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-security-jdbc-plaintext">
+    <output-path>$PROJECT_DIR$/out/artifacts/spring_security_jdbc_plaintext</output-path>
+    <root id="archive" name="spring-security-jdbc-plaintext.war">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="34_spring-security-demo-08-jdbc-plaintext" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: javax.servlet.jsp:javax.servlet.jsp-api:2.3.1" />
+          <element id="library" level="project" name="Maven: javax.servlet:javax.servlet-api:3.1.0" />
+          <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
+          <element id="library" level="project" name="Maven: javax.xml.bind:jaxb-api:2.3.0" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-acl:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-config:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-core:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-taglibs:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework.security:spring-security-web:5.0.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-aop:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-beans:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-context:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-core:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-expression:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jcl:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-jdbc:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-tx:5.0.2.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-web:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:5.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: com.google.protobuf:protobuf-java:3.19.4" />
+          <element id="library" level="project" name="Maven: com.mchange:c3p0:0.9.5.2" />
+          <element id="library" level="project" name="Maven: com.mchange:mchange-commons-java:0.2.11" />
+          <element id="library" level="project" name="Maven: mysql:mysql-connector-java:8.0.30" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="34_spring-security-demo-08-jdbc-plaintext/web/Web" />
+    </root>
+  </artifact>
+</component>
