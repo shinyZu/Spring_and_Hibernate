@@ -1,7 +1,6 @@
 package com.ceyentra.springboot.cruddemo.controller;
 
 import com.ceyentra.springboot.cruddemo.entity.Employee;
-import com.ceyentra.springboot.cruddemo.service.EmployeeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

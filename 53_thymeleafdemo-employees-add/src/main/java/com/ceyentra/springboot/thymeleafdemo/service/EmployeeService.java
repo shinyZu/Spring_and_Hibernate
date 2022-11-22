@@ -1,7 +1,7 @@
-package com.ceyentra.springboot.cruddemo.service;
+package com.ceyentra.springboot.thymeleafdemo.service;
 
 
-import com.ceyentra.springboot.cruddemo.entity.Employee;
+import com.ceyentra.springboot.thymeleafdemo.entity.Employee;
 
 import java.util.List;
 
